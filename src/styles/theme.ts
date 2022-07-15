@@ -15,6 +15,10 @@ const customTheme: Theme | {} = {
       "900": "#181B23",
     },
   },
+  fonts: {
+    heading: "Roboto",
+    body: "Roboto",
+  },
   styles: {
     global: {
       body: {
