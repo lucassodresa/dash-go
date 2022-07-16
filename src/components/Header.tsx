@@ -10,7 +10,7 @@ export const Header = () => {
     <Flex
       as="header"
       w="100%"
-      maxH="1480"
+      maxW="1480"
       h="20"
       mx="auto"
       mt="4"
