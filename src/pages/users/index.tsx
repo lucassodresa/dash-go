@@ -16,7 +16,6 @@ import {
   Tr,
   useBreakpointValue,
 } from "@chakra-ui/react";
-import { QueryClient } from "@tanstack/react-query";
 import NextLink from "next/link";
 import { useState } from "react";
 import { RiAddLine } from "react-icons/ri";
